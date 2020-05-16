@@ -11,3 +11,15 @@ result : Either 0 for non-authentic and 1 for authentic banknote
 pip3 install -r requirements.txt <br>
 
 (pandas, Flask,request, sklearn , numpy,pickle)
+
+# Results
+
+### Output from query
+
+!["User Interface"](images/img1.png)
+
+
+### Output from loaded test file
+
+!["User Interface"](images/img2.png)
+
