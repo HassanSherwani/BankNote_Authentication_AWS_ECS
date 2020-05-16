@@ -3,7 +3,7 @@ Implementation of an end-end ML project and deployment using aws
 
 # API
 
-key : /predict?variance=2&skewness=3&curtosis=2&entropy=1
+key : /predict?variance=2&skewness=3&curtosis=2&entropy=1 <br>
 output : Either 0 for non-authentic and 1 for authentic banknote
 
 # Modules
