@@ -8,6 +8,6 @@ result : Either 0 for non-authentic and 1 for authentic banknote
 
 # Modules
 
-run text.requirement <br>
+pip3 install -r requirements.txt <br>
 
 (pandas, Flask,request, sklearn , numpy,pickle)
