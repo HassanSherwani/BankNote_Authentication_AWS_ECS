@@ -3,4 +3,4 @@ request
 pandas
 numpy
 Sklearn
-pickle
+pickle-mixin
