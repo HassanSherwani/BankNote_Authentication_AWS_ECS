@@ -23,3 +23,10 @@ pip3 install -r requirements.txt <br>
 
 !["User Interface"](images/img2.png)
 
+# For front end testing using swagger
+
+Use this command:<br> 
+http://127.0.0.1:5000/apidocs/
+
+
+# Results
