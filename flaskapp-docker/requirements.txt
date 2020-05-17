@@ -1,4 +1,5 @@
 Flask
+flasgger
 request
 pandas
 numpy
