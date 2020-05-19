@@ -37,8 +37,9 @@ http://127.0.0.1:5000/apidocs/
 
 !["User Interface"](images/img4.png)
 
-### For POST method
 !["User Interface"](images/img5.png)
+
+### For POST method
 
 !["User Interface"](images/img6.png)
 
