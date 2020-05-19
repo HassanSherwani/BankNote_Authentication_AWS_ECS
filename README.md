@@ -30,3 +30,13 @@ http://127.0.0.1:5000/apidocs/
 
 
 # Results
+
+!["User Interface"](images/img3.png)
+
+!["User Interface"](images/img4.png)
+
+!["User Interface"](images/img5.png)
+
+!["User Interface"](images/img6.png)
+
+!["User Interface"](images/img7.png)
